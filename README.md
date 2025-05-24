@@ -1,0 +1,2 @@
+# Sample
+Welcome to Github.
